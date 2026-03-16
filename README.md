@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Berkay 👋
 
-<!--
-**berkay-ai/berkay-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on building machine learning systems, AI applications, and data-driven solutions.
 
-Here are some ideas to get you started:
+Currently completing a **Master of Science in Artificial Intelligence** and transitioning into **AI Engineering and MLOps roles**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Focus
+
+- Machine Learning
+- MLOps & Model Deployment
+- Python Data Systems
+- NLP Applications
+- Data Analytics
+
+## Projects
+
+- Adaptive AI Chatbot
+- AI Travel Guidance Chatbot
+- Titanic Survival Prediction Model
+- ML Drift Monitoring System (Capstone)
+
+## Tech Stack
+
+Python • Scikit-learn • TensorFlow • PyTorch  
+Docker • Kubernetes • CI/CD  
+AWS • GCP • Azure  
+Pandas • NumPy • Data Visualization
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/berkay-ai
