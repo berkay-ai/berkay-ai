@@ -1,6 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkay-ai&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=berkay-ai)
-
 # Hi, I'm Berkay 👋
 
 AI Engineer focused on building machine learning systems, AI applications, and data-driven solutions.
