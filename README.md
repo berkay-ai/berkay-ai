@@ -2,7 +2,7 @@
 
 AI Engineer focused on building machine learning systems, AI applications, and data-driven solutions.
 
-Currently completing a **Master of Science in Artificial Intelligence** and transitioning into **AI Engineering and MLOps roles**.
+Currently completing a **Master of Science in Artificial Intelligence** and expanding my focus toward **AI Engineering, MLOps, DevOps, and cloud-based machine learning systems**.
 
 ## Technical Focus
 
