@@ -1,8 +1,8 @@
 # Hi, I'm Berkay 👋
 
-AI Engineer focused on building machine learning systems, AI applications, and data-driven solutions.
+AI-focused professional building machine learning systems, AI applications, and data-driven solutions.
 
-Currently completing a **Master of Science in Artificial Intelligence** and expanding my focus toward **AI Engineering, MLOps, DevOps, and cloud-based machine learning systems**.
+Currently completing a Master of Science in Artificial Intelligence while continuing to develop skills in AI Engineering, MLOps, DevOps, and cloud-based machine learning systems.
 
 ## Technical Focus
 
