@@ -2,7 +2,7 @@
 
 AI-focused professional building machine learning systems, AI applications, and data-driven solutions.
 
-Currently completing a Master of Science in Artificial Intelligence while continuing to develop skills in AI Engineering, MLOps, DevOps, and cloud-based machine learning systems.
+Recently completed a Master of Science in Artificial Intelligence while continuing to develop skills in AI Engineering, MLOps, DevOps, and cloud-based machine learning systems.
 
 ## Technical Focus
 
