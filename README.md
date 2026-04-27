@@ -17,7 +17,7 @@ Recently completed a Master of Science in Artificial Intelligence while continui
 - Adaptive AI Chatbot
 - AI Travel Guidance Chatbot
 - Titanic Survival Prediction Model
-- ML Drift Monitoring System (Capstone)
+- ML Recommendation System Evaluation (Capstone)
 
 ## Tech Stack
 
